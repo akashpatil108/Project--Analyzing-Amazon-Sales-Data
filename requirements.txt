@@ -1,0 +1,10 @@
+pycaret
+# numpy
+# pandas
+# scikit-learn
+# matplotlib
+seaborn
+# lightgbm
+# statsmodels
+
+# -e .
